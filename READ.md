@@ -1,0 +1,2 @@
+Hello this git commands basics
+Git push only pushes commits that are only changed or git push only sends commits that the remote does not already have or git push sends new commits, which contain changes or Only committed changes are pushed
